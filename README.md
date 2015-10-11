@@ -38,10 +38,22 @@ Grid includes a small set of helper/utility classes that make writing markup eas
 
 outputs:
 
-**LAUNCH**
+_**LAUNCH**_
+
+* `.clearfix`
 
 * `.capitalize`
 * `.uppercase`
 * `.lowercase`
 * `.align .left`
 * `.align .right`
+
+* `.left`
+* `.right`
+
+* `.weight .300`
+* `.weight .400`
+* `.weight .600`
+* `.weight .700`
+* `.weight .800`
+* `.weight .900`
