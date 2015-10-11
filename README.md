@@ -40,17 +40,16 @@ outputs:
 
 _**LAUNCH**_
 
-* `.clearfix`
+Here are all helper classes that control text, alignment, floats, etc.
 
+* `.clearfix`
 * `.capitalize`
 * `.uppercase`
 * `.lowercase`
 * `.align .left`
 * `.align .right`
-
 * `.left`
 * `.right`
-
 * `.weight .300`
 * `.weight .400`
 * `.weight .600`
