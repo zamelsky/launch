@@ -12,7 +12,7 @@ __What does it include?__
 
 ### Grid
 
-The grid is a flexible twelve column grid with super simple syntax, it is also heavily influenced by [Grid](http://adamkaplan.me/grid/) and [Kindling](http://timothylong.com/kindling/)
+The grid is a flexible twelve column grid with super simple syntax, it is also heavily influenced by [Grid](http://adamkaplan.me/grid/) and [Kindling](http://timothylong.com/kindling/).
 
 __Usage__
 
@@ -26,4 +26,18 @@ Simple three column layout
 		<div class="column four"></div>
 	</div>
 </div>
+```
+
+### Utility Classes
+
+Grid includes a small set of helper/utility classes that make writing markup easy and fun, here's a quick example. And a list of all helper classes:
+
+```
+<h1 class="uppercase weight 600 italic">Launch is awesome</h1>
+```
+
+outputs:
+
+```
+_*LAUNCH IS AWESOME*_
 ```
