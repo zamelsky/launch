@@ -38,8 +38,10 @@ Grid includes a small set of helper/utility classes that make writing markup eas
 
 outputs:
 
-_*LAUNCH*_
+**LAUNCH**
 
 * `.capitalize`
 * `.uppercase`
 * `.lowercase`
+* `.align .left`
+* `.align .right`
