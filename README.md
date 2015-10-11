@@ -30,14 +30,16 @@ Simple three column layout
 
 ### Utility Classes
 
-Grid includes a small set of helper/utility classes that make writing markup easy and fun, here's a quick example. And a list of all helper classes:
+Grid includes a small set of helper/utility classes that make writing markup easy and fun, here's a quick example, and a list of all helper classes:
 
 ```
-<h1 class="uppercase weight 600 italic">Launch is awesome</h1>
+<h1 class="uppercase weight 600 italic">Launch</h1>
 ```
 
 outputs:
 
-```
-_*LAUNCH IS AWESOME*_
-```
+_*LAUNCH*_
+
+* `.capitalize`
+* `.uppercase`
+* `.lowercase`
