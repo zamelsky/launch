@@ -1,12 +1,8 @@
 
+# Launch
+
+- - -
+
 ### What is Launch?
 
-Launch is a few super useful css resources crammed into a easy-to-use package, ready to include into your next big project. This project is heavily influenced by Bootstrap's new v4 alpha, Adam Kaplan's Grid and Timothy Long's Kindling grid, as well as few other resources.
-
-Launch includes:
-
-* normalize.css
-* typography
-* base html element styling
-* custom grid
-* helpers & utility classes
+Launch is a collection of super useful CSS resources + a custom grid packed into a convinient little stylesheet that may serve useful in your next big project. It is _not a frontend framework_ but a starter point for large projects.
